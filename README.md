@@ -3,6 +3,7 @@ A simple flutter based application to track the regular expenses along with a ch
 # Screenshots
 &nbsp; <img src="demo/expense1.png" height="400"> &nbsp; <img src="demo/expnse2.png" height="400">
 &nbsp; <img src="demo/expense3.png" height="400"> &nbsp; <img src="demo/expense_dark.png" height="400">
+# Demo
 
-[(https://img.youtube.com/vi/vGXH29sSfFg/hqdefault.jpg)](https://www.youtube.com/watch?v=vGXH29sSfFg)
+[![demo](https://img.youtube.com/vi/vGXH29sSfFg/hqdefault.jpg)](https://www.youtube.com/watch?v=vGXH29sSfFg)
 ---
